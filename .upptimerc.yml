@@ -9,14 +9,13 @@ sites:
     url: https://s32-waqas.netlify.app/
   - name: Car Test
     url: https://gemini-waqas.netlify.app/
+  - name: Off+Brand
+    url: https://itsoffbrand-waqas.vercel.app/
   - name: Abduction
     url: https://abduction-waqas.netlify.app/
     port: 80
     check: "tcp-ping"
     ipv6: true
-  - name: Off+Brand
-    url: https://itsoffbrand-waqas.vercel.app/
-
   - name: IPv6 test
     url: https://waqasishaque.netlify.app/
     port: 80
