@@ -7,7 +7,7 @@ sites:
     url: https://waqasishaque.netlify.app/
 
   - name: IPv6 test
-    url: forwardemail.net
+    url: https://waqasishaque.netlify.app/
     port: 80
     check: "tcp-ping"
     ipv6: true
