@@ -5,6 +5,8 @@ repo: folio-uptime # The name of this repository
 sites:
   - name: Portfolio
     url: https://waqasishaque.netlify.app/
+  - name: Chatbot
+    url: https://waqas-cb.vercel.app/
   - name: S-32
     url: https://s32-waqas.netlify.app/
   - name: Car Test
