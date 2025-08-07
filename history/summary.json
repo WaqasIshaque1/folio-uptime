@@ -78,7 +78,7 @@
     "url": "https://itsoffbrand-waqas.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/itsoffbrand-waqas.vercel.app.ico",
     "slug": "off-brand",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 156,
     "timeMonth": 152,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-07": 0
+    }
   },
   {
     "name": "Abduction",
@@ -97,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/abduction-waqas.netlify.app.ico",
     "slug": "abduction",
     "status": "down",
-    "uptime": "52.01%",
+    "uptime": "52.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.01%",
+    "uptimeYear": "52.29%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
