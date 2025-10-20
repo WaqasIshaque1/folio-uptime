@@ -42,7 +42,7 @@
     "timeMonth": 164,
     "timeYear": 1070,
     "dailyMinutesDown": {
-      "2025-10-20": 935,
+      "2025-10-20": 945,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -117,19 +117,19 @@
     "url": "https://s32-waqas.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/s32-waqas.netlify.app.ico",
     "slug": "s-32",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 232,
-    "timeWeek": 215,
-    "timeMonth": 176,
-    "timeYear": 187,
+    "time": 186,
+    "timeDay": 132,
+    "timeWeek": 192,
+    "timeMonth": 172,
+    "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-10-20": 1
+      "2025-10-20": 11
     }
   },
   {
@@ -137,19 +137,19 @@
     "url": "https://gemini-waqas.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/gemini-waqas.netlify.app.ico",
     "slug": "car-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 318,
-    "timeWeek": 279,
-    "timeMonth": 216,
-    "timeYear": 206,
+    "time": 205,
+    "timeDay": 179,
+    "timeWeek": 249,
+    "timeMonth": 210,
+    "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 11
     }
   },
   {
